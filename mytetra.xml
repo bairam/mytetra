@@ -1,0 +1,81 @@
+  <?xml version="1.0" encoding="UTF-8" ?> 
+  <!DOCTYPE mytetradoc (View Source for full doctype...)> 
+- <root>
+  <format version="1" subversion="1" /> 
+- <content>
+- <node id="1" name="Компьютеры">
+- <node id="3765" name="OS">
+- <node id="3766" name="Win">
+- <recordtable>
+  <record dir="0000003245" url="http://support.microsoft.com/kb/823732/ru" tags="USB" author="Microsoft" id="3808" ctime="20110428132727" name="Предотвращение использования USB-устройств" file="text.html" /> 
+  </recordtable>
+- <node id="3774" name="XP">
++ <recordtable>
+  <record dir="0000003236" url="" tags="автоматически" author="Any" id="3776" ctime="20101205132201" name="Вход в систему автоматически" file="text.html" /> 
+  <record dir="0000003238" url="" tags="клавиатура" author="Найдено в сети" id="3783" ctime="20101206125436" name="Английская раскладка при входе в ОС" file="text.html" /> 
+  <record dir="0000003240" url="http://networkadminsupport.net/?p=20" tags="перезагрузка" author="Надено в сети" id="3788" ctime="20101206132002" name="Удаленная перезагрузка компьютера Windows XP, 2003" file="text.html" /> 
+  </recordtable>
+  </node>
+  </node>
+- <node id="3767" name="Linux">
+- <node id="3802" name="CentOS">
+- <recordtable>
+  <record dir="0000003244" url="http://guruadmin.ru/page/centos-ustanovka-paketov-s-pomoshhju-komandy-yum-s-ispolzovanie-v-kachestve-repozitarija-dvd-cd" tags="CentOS, yum" author="Noname" id="3804" ctime="20110405082226" name="Установка пакетов с помощью команды yum с использование в качестве репозитария DVD / CD" file="text.html" /> 
+  </recordtable>
+  </node>
+- <node id="3809" name="commands">
+- <recordtable>
+  <record dir="0000003246" url="http://easylinux.ru/uuid" tags="UUID" author="http://easylinux.ru" id="3811" ctime="20110523204012" name="Использование Универсальных Уникальных Идентификаторов (UUID)" file="text.html" /> 
+  <record dir="0000003247" url="" tags="mount" author="собственно" id="3813" ctime="20110523204949" name="mount" file="text.html" /> 
+  </recordtable>
+  </node>
+  </node>
+  </node>
+- <node id="3768" name="Программирование">
+  <node id="3769" name="Assembler" /> 
+  <node id="3770" name="C++" /> 
+  <node id="3771" name="C#" /> 
+  </node>
+  <node id="3772" name="Железо" /> 
+- <node id="3773" name="Программы">
+- <node id="3800" name="Outlook Express">
+- <recordtable>
+  <record dir="0000003243" url="http://forum.oszone.net/post-1541606.html" tags="Outlook Express" author="andrystepa" id="3801" ctime="20110112110502" name="Неизвестная ошибка отправления" file="text.html" /> 
+  </recordtable>
+  </node>
+  </node>
+- <node id="3794" name="Network">
+- <node id="3795" name="wifi">
+- <recordtable>
+  <record dir="0000003241" url="http://www.compress.ru/article.aspx?id=17372&iid=805" tags="WiFi, WEP, WPA" author="Сергей Пахомов, Максим Афанасьев" id="3797" ctime="20110111081914" name="Взлом WiFi" file="text.html" /> 
+  </recordtable>
+  </node>
+- <node id="1355215052x2bzcvcy2q" name="Windows">
+- <recordtable>
+  <record dir="1355215342vyt2hyznv6" crypt="0" url="" tags="Port, порт, network, сеть, netstat" author="Байрамгулов Рамиль Факилович" id="135521534228o2gp5q42" ctime="20121211124222" name="Порты принимающие входящие подключения" file="text.html" /> 
+  </recordtable>
+  </node>
+  </node>
+- <node id="3814" name="Загрузчики">
+- <node id="3815" name="Grub4Dos">
+- <recordtable>
+  <record dir="0000003248" url="http://zalexd.blogspot.com/; http://greenflash.su/forum/5-565-2" tags="Grub, Grub4Dos, iso" author="noname" id="3817" ctime="20110728183142" name="Загрузка с ISO образа Recovery Consel и ERD Commander 5.0" file="text.html" /> 
+  </recordtable>
+  </node>
+  </node>
+  </node>
+- <node id="3778" name="Электроника">
+- <node id="3779" name="Аккамуляторы">
+- <recordtable>
+  <record dir="0000003237" url="" tags="аккамулятор" author="Any" id="3781" ctime="20101205132534" name="Время заряба аккамуляторов" file="text.html" /> 
+  </recordtable>
+  </node>
+- <node id="3784" name="Диод">
+- <recordtable>
+  <record dir="0000003239" url="http://www.casemods.ru/services/raschet_rezistora.html" tags="Диод" author="Найдено в сети" id="3786" ctime="20101206130039" name="Вычисление резистора для светодиода с использованием Закон Ома" file="text.html" /> 
+  </recordtable>
+  </node>
+  </node>
+  <node id="3793" name="Сеть" /> 
+  </content>
+  </root>
